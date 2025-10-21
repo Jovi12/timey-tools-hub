@@ -43,15 +43,7 @@ export const Footer = () => {
           </div>
         </div>
 
-        {/* AdSense Placeholder */}
-        <div className="my-6 flex justify-center">
-          <div
-            id="ads-area"
-            className="w-full max-w-4xl h-24 bg-muted rounded-lg flex items-center justify-center text-sm text-muted-foreground border border-border"
-          >
-            Google AdSense Placeholder
-          </div>
-        </div>
+        
 
         <div className="pt-6 border-t border-border text-center text-sm text-muted-foreground">
           <p>&copy; {currentYear} TimeyTools. All rights reserved.</p>
